@@ -1,0 +1,15 @@
+{
+    "title": "Widget Lab",
+    "baseURL": "http:\/\/www.quecarahhios.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759045",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "quecarahhios.com"
+    }
+}
